@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 I design tools for smart people with complicated jobs.
 
-At the minute, I am at [Spotify](https://github.com/spotify), working on a new metrics platform. Before that, I led design on [The Spotify Experimentation Platform](https://engineering.atspotify.com/2020/10/spotifys-new-experimentation-platform-part-1/). I also contribute design to [Backstage](https://backstage.io), for instance the [Pulse](https://backstage.spotify.com/plugins/pulse/) plugin.
+At the minute, I am at Spotify, working on a new metrics platform. Before that, I led design on [The Spotify Experimentation Platform](https://engineering.atspotify.com/2020/10/spotifys-new-experimentation-platform-part-1/). I also contribute design to [Backstage](https://backstage.io), for instance the [Pulse](https://backstage.spotify.com/plugins/pulse/) plugin.
